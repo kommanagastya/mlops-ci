@@ -1,4 +1,4 @@
-name: mlops-tensorflow-regression
+name: mlops-tensorflow-regression-wf
 on: 
   push:
     branches:
